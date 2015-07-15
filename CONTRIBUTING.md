@@ -1,5 +1,6 @@
 Leaflet への貢献
 =======================
+[Contributing to Leaflet](https://github.com/Leaflet/Leaflet/blob/master/CONTRIBUTING.md) の（勝手に）日本語訳です。
 
  1. [Leaflet プロジェクトへの関わり方](#getting-involved)
  2. [バグの報告](#reporting-bugs)
